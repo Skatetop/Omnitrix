@@ -25,6 +25,7 @@ Regardless of which agent you use, the knowledge base provides:
 
 | File | Agent | What it covers |
 |---|---|---|
+| [`mac-setup.md`](mac-setup.md) | **macOS Setup** | Complete macOS installation & troubleshooting guide for Claude Code integration. |
 | [`claude-code.md`](claude-code.md) | Claude Code (Anthropic CLI) | `.claude/settings.json` with `systemPromptFile` and `knowledgeBase`; MCP server config. |
 | [`cursor.md`](cursor.md) | Cursor IDE | `.cursor/rules/` rule file pointing to system-prompt.md; @-mentioning in chat. |
 | [`ollama.md`](ollama.md) | Ollama (local LLMs) | `Modelfile` loading system-prompt.md; recommended models. |
